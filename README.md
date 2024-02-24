@@ -7,17 +7,17 @@ Description
 Use A&D to move and try to get as many points as possible with 3 lives. Hit the ball against the bricks to earn points.
 
 ## Implementation
-Changed the colors of bricks
-Animated bricks when they are hit
-Added Screen Shake
-Added sound effects
-Added music
-Added particles when an paddle is hit
-Added a comet trail to the ball
-Add hearts
-Made the hearts follow the ball
-Added background
-Changed wall color
+* Changed the colors of bricks
+* Animated bricks when they are hit
+* Added Screen Shake
+* Added sound effects
+* Added music
+* Added particles when an paddle is hit
+* Added a comet trail to the ball
+* Add hearts
+* Made the hearts follow the ball
+* Added background
+* Changed wall color
 
 
 ## References
